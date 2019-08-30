@@ -1,2 +1,2 @@
 # parentalcontrol_android
- Aplikasi Prental Control dengan implementasi Vigenere Cipher Menggunakan Pattern Lock
+ Aplikasi Parental Control dengan implementasi Vigenere Cipher Menggunakan Pattern Lock
